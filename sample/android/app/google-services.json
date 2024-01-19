@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551088138547",
+    "project_id": "cell2fix-cd654",
+    "storage_bucket": "cell2fix-cd654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551088138547:android:4785cdf0cab4e36a7c7646",
+        "android_client_info": {
+          "package_name": "com.example.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbi1JlkYQXQLTEYVoKZw5WhHfp97yUjgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

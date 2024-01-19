@@ -1,0 +1,59 @@
+{ 
+    "categories": [ 
+        { 
+            "name": "Phones",
+            "subcategory": [ 
+                "Apple",
+                "Samsung",
+                "Google",
+                "Huawei",
+                "L.G",
+                "Asus"
+            ]
+        },
+        { 
+            "name": "Laptops",
+            "subcategory": [ 
+                "Apple",
+                "Asus",
+                "Lenovo",
+                "Dell",
+                "HP",
+                "Samsung",
+                "Acer"
+            ]
+        },
+        { 
+            "name": "Desktops",
+            "subcategory": [ 
+                "Apple",
+                "Asus",
+                "Dell",
+                "Acer",
+                "Lenovo"
+            ]
+        },
+        { 
+            "name": "Consoles",
+            "subcategory":[ 
+                "PlayStation",
+                "XBox"
+            ]
+        },
+        { 
+            "name": "Smart Watches",
+            "subcategory":[ 
+                "Apple",
+                "Samsung"
+            ]
+        },
+        { 
+            "name": "Tablets",
+            "subcategory":[ 
+                "Apple",
+                "Samsung",
+                "Lenovo"
+            ]
+        }
+    ]
+}
